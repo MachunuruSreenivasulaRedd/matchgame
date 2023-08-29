@@ -1,0 +1,12 @@
+.listItems {
+  list-style-type: none;
+}
+.ImageBtn {
+  outline: none;
+  border: none;
+   background-color: transparent;
+}
+.img {
+  width: 80px;
+  height: 80px;
+}
